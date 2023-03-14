@@ -55,11 +55,12 @@
 
 
 # Summarizing the constraints and potential improvements
+
 * Constraints
- * Training Time
- * Data is imbalance
- * Limited to one model
- * Memory Limitations
+  * Training Time
+  * Data is imbalance
+  * Limited to one model
+  * Memory Limitations
 
 * Potential Improvements
   * Data Augmentation
