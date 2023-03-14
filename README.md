@@ -23,6 +23,8 @@
 * Exploratory Data Analysis
 * Preprocessing 
   * Dividing data into training and testing folders (80,20)
+   * Training Data: https://drive.google.com/drive/folders/1mBG0Ms8u5D3C1ugnbPXNexdwI8TWoABQ?usp=share_link
+   * Testing Data: https://drive.google.com/drive/folders/1m9QZNNeehqo1-AziprZkWKRLP7lsoNwQ?usp=share_link
   * Saving class labels
 * Defining the model
   * Fine-tuning vgg-19 model
@@ -32,7 +34,6 @@
   * lr=0.01 (learning rate)
   * loss=categorical_crossentropy
 * Results and Predictions (Inference Notebook contains the predictions and other model stats)
- ![download](https://user-images.githubusercontent.com/60270854/224865619-ccf59fba-f8dd-4d80-9797-9539d07c9aee.png)
  ![results](https://user-images.githubusercontent.com/60270854/224866035-9d28ec4b-8fb4-4707-b5d1-9701a71d680b.png)
 
   
